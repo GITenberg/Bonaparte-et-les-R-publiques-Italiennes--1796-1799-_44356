@@ -1,0 +1,30 @@
+_repo: Bonaparte-et-les-R-publiques-Italiennes--1796-1799-_44356
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44356-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Gaffarel, Paul
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '42708'
+    url: http://www.gutenberg.org/2009/agents/42708
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44356'
+  lccn: '03006466'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'First Coalition, War of the, 1792-1797 -- Campaigns -- Italy'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Military leadership'
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1789-1815'
+title: Bonaparte et les Républiques Italiennes (1796-1799)
+url: http://www.gutenberg.org/ebooks/44356
